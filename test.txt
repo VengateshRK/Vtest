@@ -11,9 +11,7 @@ Counting objects: 100% (7/7), done.
 Delta compression using up to 8 threads
 Compressing objects: 100% (3/3), done.
 Writing objects: 100% (4/4), 429 bytes | 429.00 KiB/s, done.
-Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/VengateshRK/AlbiladBank12mar.git
-   f8aee36..94f799a  master -> master
+
 
 BAB@NMACADEMY06 MINGW64 ~/Desktop/Albilad/GITpractice (master)
 $ git status
